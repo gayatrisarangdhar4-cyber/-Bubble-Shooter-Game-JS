@@ -9,6 +9,8 @@
   I use JS for make bubble fuction, time fuction, randome number changing fuction, clike bubble sooting fuction, 
   for frontEnd use simpe HTML code and 
   in CSS use for design the whole code that looks like a attactive,use for bubbles color background color button spasing, designing, and amy more features for designing the website 
+
+  Click here to play the game (main)
   
 Using laguages for-
 frontend- HTML/CSS/
